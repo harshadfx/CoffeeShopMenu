@@ -1,3 +1,5 @@
 Expresso
 Cappuchino
 Latte
+Frappechino
+Machiato
